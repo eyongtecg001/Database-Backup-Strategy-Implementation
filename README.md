@@ -1,7 +1,5 @@
 # Database-Backup-Strategy-Implementation
 This project implements a comprehensive backup and recovery strategy for the AdventureWorks2022 database using SQL Server Agent jobs. The solution ensures data protection through scheduled full, differential, and transaction log backups with point-in-time recovery capabilities.
-You're absolutely right! I apologize for the confusion. Let me provide you with the proper README.md file content that you can directly copy and paste into your GitHub repository.
-
 ```markdown
 # AdventureWorks Database Backup Strategy Implementation
 
